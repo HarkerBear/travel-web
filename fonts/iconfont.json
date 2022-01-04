@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "431779",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "999120",
+      "name": "放大镜",
+      "font_class": "ai219",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "5127396",
+      "name": "linkedin",
+      "font_class": "linkedin",
+      "unicode": "e7bd",
+      "unicode_decimal": 59325
+    }
+  ]
+}
